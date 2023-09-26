@@ -20,8 +20,8 @@ author: Pierre PHU
 ###############################################
 
 navbar-links:
-  Mes Projets: "projets"
-  Mon CV : "assets/img/PHU_Pierre_CV.pdf"
+  My Projects : "projets"
+  My Resume : "assets/img/PHU_Pierre_Resume.pdf"
   FR : "https://pierre-phu.github.io/"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
